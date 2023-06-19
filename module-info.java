@@ -5,5 +5,5 @@
  * @author kelly
  *
  */
-module tiposDeDatosYVariablesCH27JAVA {
+module POO {
 }
