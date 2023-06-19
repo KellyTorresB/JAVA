@@ -5,5 +5,5 @@
  * @author kelly
  *
  */
-module condicionalesYCicloss {
+module operadoresLogicos {
 }
